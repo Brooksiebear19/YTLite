@@ -1,5 +1,11 @@
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
+After 3 days of getting this error ("Something went wrong. Refresh and try again later" error),I tried to spoof (hacky way to say modify) the version of 20.29.3 to 19.20.2 as @hyungz suggested, and have used it for over a day. Still no issue Step:
+
+Download the 20.29.3 IPA
+Use this tool: jagritthukral.github.io/EditIPA
+Upload the IPA and change Bundle Version and Short Version String to 19.20.2, then press submit
+Use that modifed IPA to build
 
 ## Table of Contents
 - [Screenshots](#screenshots)
